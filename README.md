@@ -56,4 +56,17 @@ All these scripts internally load the dataset and apply loss functions using **d
 # Support
 Feel free to contact: dibyabhadeb@gmail.com
 
+# Citation
+Cite our paper (pre-print)
+<pre>
+   @misc{deb2025leveragingselfsupervisedfeaturesefficient,
+      title={Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images}, 
+      author={Dibyabha Deb and Ujjwal Verma},
+      year={2025},
+      eprint={2507.04915},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.04915}, 
+}
+</pre>
  
